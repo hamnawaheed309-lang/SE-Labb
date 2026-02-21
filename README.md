@@ -3,10 +3,19 @@
 This repository contains documentation and project structure for the Software Engineering Lab assignment.
 
 ## Folder Structure
+MyProject
+│── README.md
+│
+├── docs/
+│   ├── SRS.md
+│   ├── TestPlan.md
+│   └── ReviewChecklist.md
+│
+├── src/
+│   └── main.py 
+│
+└── tests/
+    └── test_main.py 
 
-docs/  → Documentation files  
-src/   → Source code  
-tests/ → Test files  
 
-## Author
 Hamna Waheed
