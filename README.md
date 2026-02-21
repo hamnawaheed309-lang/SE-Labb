@@ -4,16 +4,22 @@ This repository contains documentation and project structure for the Software En
 
 ## Folder Structure
 MyProject
+
       README.md
 docs
+
    SRS.md
    TestPlan.md
    ReviewChecklist.md
+   
 src
    main.py 
+   
 tests
    test_main.py 
 
 Author
+
 Hamna Waheed
+
 
